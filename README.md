@@ -12,7 +12,7 @@ El juego de damas es un juego de mesa para dos jugadores, donde cada jugador tie
 ---
 
 ### ✅ Requerimientos Funcionales
-1. Permitir que dos jugadores interactúen alternando turnos.
+1. Permitir que dos jugadores interactúen alternando turnos(Jugador y Computadora).
 2. Validar automáticamente los movimientos según las reglas del juego de damas.
 3. Realizar promociones de piezas a "damas" al llegar al otro lado del tablero.
 4. Reiniciar el juego al presionar un botón.
