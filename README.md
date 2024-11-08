@@ -7,7 +7,7 @@ Este proyecto es un juego de damas programado en Python, utilizando la bibliotec
 ### 🎮 Concepto del Juego
 El juego de damas es un juego de mesa para dos jugadores, donde cada jugador tiene piezas de un color (rojas y azules). El objetivo es capturar todas las piezas del oponente o bloquearlas para que no puedan moverse.
 
-![Concepto del Juego](./image.png)
+![Concepto del Juego](https://url.com/aqui/tu-imagen.png)
 
 ---
 
