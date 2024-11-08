@@ -1,4 +1,4 @@
-# 🕹️ Juego de Damas en Python
+# 🕹️ Juego de Damas 
 
 Este proyecto es un juego de damas programado en Python, utilizando la biblioteca `tkinter` para la interfaz gráfica. El objetivo principal es permitir que dos jugadores puedan jugar en una misma computadora de manera interactiva.
 
@@ -7,7 +7,7 @@ Este proyecto es un juego de damas programado en Python, utilizando la bibliotec
 ### 🎮 Concepto del Juego
 El juego de damas es un juego de mesa para dos jugadores, donde cada jugador tiene piezas de un color (rojas y azules). El objetivo es capturar todas las piezas del oponente o bloquearlas para que no puedan moverse.
 
-![Concepto del Juego](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/concepto_del_juego.jpeg)
+![Concepto del Juego](./image.png)
 
 ---
 
